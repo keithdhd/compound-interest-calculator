@@ -7,8 +7,6 @@ Suppose Lucy invests £100 in a bank account that offers an annual interest rate
 <i>“Compound interest is the eighth wonder of the world. He who understands it earns it. He who doesn’t pays it.”</i>
 <cite>- Albert Einstein</cite>
 
-![Compound Interest Calculator](../images/compound-interest-calculator.png)
-
 Clone the repo. In the project directory, you can run:
 
 ```
