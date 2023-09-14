@@ -11,12 +11,14 @@ Suppose Lucy invests £100 in a bank account that offers an annual interest rate
 
 Clone the repo. In the project directory, you can run:
 
-### `npm install`
-### `npm start`
+```
+npm install
+npm start
+```
 
 To run the tests, you can run:
 
-### `npm test`
+`npm test`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
