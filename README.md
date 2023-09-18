@@ -2,7 +2,7 @@
 
 The magic of compound interest! 
 
-Suppose Lucy invests £100 in a bank account that offers an annual interest rate of 5%. The interest is compounded annually. After 50 years of compound interest at a 5% annual rate, Lucy would have approximately £1,146.74 in her account.
+Suppose Lucy invests £100 in a bank account that offers an annual interest rate of 5%. The interest is compounded annually. After 50 years of compound interest at a 5% annual rate, Lucy would have approximately £1,211.94 in her account.
 
 <i>“Compound interest is the eighth wonder of the world. He who understands it earns it. He who doesn’t pays it.”</i>
 <cite>- Albert Einstein</cite>
