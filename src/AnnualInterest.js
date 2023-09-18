@@ -1,6 +1,6 @@
 import React from "react";
 
-function AnnualInterest({ value, handleInterestChange }) {
+const AnnualInterest = ({ value, handleInterestChange }) => {
   return (
     <div className="field">
       <label htmlFor="annualInterest">Annual Interest (%):</label>
@@ -14,6 +14,6 @@ function AnnualInterest({ value, handleInterestChange }) {
       />
     </div>
   );
-}
+};
 
 export default AnnualInterest;

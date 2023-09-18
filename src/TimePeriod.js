@@ -3,7 +3,12 @@ import React from "react";
 const TimePeriod = ({ errors, value, handleTimePeriodChange }) => {
   const errorMessages = errors.map((error, index) => {
     return (
-      <div key={index} className="ui error visible message">
+      <div
+        key={index}
+        className="ui error visible message"
+        aria-live="assertive"
+        id="message"
+      >
         {error}
       </div>
     );
